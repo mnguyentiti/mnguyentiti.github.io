@@ -5,12 +5,16 @@ author_profile: true
 redirect_from: 
   - /resume
 ---
+{% include base_path %}
 
-## Programming skills
+Programming skills
+---
+
  - Languages: Matlab, C, Python
  - Data packages & APIs: Pandas, Numpy, Matplotlib, Scikits-learn, Tensorflow, Keras, NLTK
 
-## Relevant Courseworks: 
+Relevant Courseworks:
+---
 
 **Computation Intensive Statistics** [Mcgill](http://www.math.mcgill.ca/yyang/comp.html)
 
