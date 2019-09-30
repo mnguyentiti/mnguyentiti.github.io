@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
