@@ -18,7 +18,7 @@ Relevant Courseworks:
 
 **Computation Intensive Statistics** [Mcgill](http://www.math.mcgill.ca/yyang/comp.html)
 
-** Optimization** [Mcgill](https://www.mcgill.ca/study/2018-2019/courses/math-560)
+**Optimization** [Mcgill](https://www.mcgill.ca/study/2018-2019/courses/math-560)
 
 **Neural Networks and Deep Learning** [deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/QT46J44B7SW4)
  - [Neural Networks and Deep Learning ](https://www.coursera.org/account/accomplishments/records/BZW9RB65KC2Q)
