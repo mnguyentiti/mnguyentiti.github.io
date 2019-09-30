@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### [NECPHY-LAB](http://necphy-lab.com/), [INRS-EMT](http://www.emt.inrs.ca/emt/)(Jan. 2016 - Present)
+- **Ph.D. Research Assistant** 
+  - Computing and radio resource management in mobile edge computing systems
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### [ENSSAT](http://www.enssat.fr/en_US/recherche/laboratoire-irisa), [University of RENNES 1](https://www.univ-rennes1.fr/) (Sept. 2014 - Sept. 2015)
+- **Master of Engineering** 
+  - Inphase/quadrature imbalance and blind compensation in digital communication
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### [Saigontourist Cable Television Company Limited](http://www.sctv.com.vn/) (Sept. 2013 - Sept. 2014)
+- **R&D Lab**  
+  - 4K Ultra high-definition set-top box implementation
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### [Saigontourist Cable Television Company Limited](http://www.sctv.com.vn/) (Sept. 2013 - Sept. 2014)
+- **Bachelor of Engineering** 
+  - Fire detection based on video processing method
