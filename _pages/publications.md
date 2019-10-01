@@ -31,7 +31,7 @@ Conferences
 
 3. **Ti Ti Nguyen**, M. Gautier, P. Scalart, O. Berder, T-H. Nguyen, F. A. Aoudia, ["Blind I/Q Imbalance Compensation for M-QAM Optical Coherent Systems based on Pseudo-rotation"](https://ieeexplore.ieee.org/abstract/document/7841633), IEEE Global Communications Conference, 2016.
 
-2. C.Peucheret, T-H. Nguyen, P. Scalart, M. Gay, L. Bramerie, **Ti Ti Nguyen**, M. Joindot, M. Gautier, O. Sentieys, J.-C. Simon, ["Blind adaptive transmitter IQ imbalance compensation in M-QAM optical coherent systems"](https://ieeexplore.ieee.org/abstract/document/7510925), IEEE International Conference on Communications, 2016.
+2. T-H. Nguyen, P. Scalart, M. Gay, L. Bramerie, C. Peucheret,  **Ti Ti Nguyen**, M. Joindot, M. Gautier, O. Sentieys, J.-C. Simon, ["Blind adaptive transmitter IQ imbalance compensation in M-QAM optical coherent systems"](https://ieeexplore.ieee.org/abstract/document/7510925), IEEE International Conference on Communications, 2016.
 
 1. **Ti Ti Nguyen**, T. P. Nguyen, T. Do-Hong, ["Fire detection based on video processing method"](https://ieeexplore.ieee.org/abstract/document/6698087), IEEE International Conference on Advanced Technololies for Communications (ATC), 2013
 
