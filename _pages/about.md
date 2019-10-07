@@ -26,6 +26,6 @@ Currently, I am a Ph.D. student at [NECPHY-LAB](http://necphy-lab.com/), Institu
 - **R&D Lab**  
   - 4K Ultra high-definition set-top box implementation
 
-### [Saigontourist Cable Television Company Limited](http://www.sctv.com.vn/) (Sept. 2013 - Sept. 2014)
+### [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en) (Sept. 2008 - Sept. 2013)
 - **Bachelor of Science** 
   - Fire detection based on video processing method
