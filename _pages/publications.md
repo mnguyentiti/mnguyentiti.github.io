@@ -11,13 +11,13 @@ redirect_from:
 
 Journals
 ---
-5. Vu N. Ha, **Ti Ti Nguyen**, L. B. Le, ["Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks"](https://drive.google.com/file/d/1neVGyQIXD86idhJmJnkCRvfZvYqqS6bs/view?usp=sharing), submitted to IEEE Networking Letters.
+5. Vu N. Ha, **Ti Ti Nguyen**, L. B. Le, ["Admission Control and Network Slicing for Multi-Numerology 5G Wireless Networks"](https://drive.google.com/file/d/1EfIOGCWD-g9iLuzmSBpVMiAZmkFTWlwQ/view?usp=sharing), submitted to IEEE Networking Letters, minor revision.
 
 4. **Ti Ti Nguyen**, Vu N. Ha, L. B. Le, ["Wireless Scheduling for Heterogeneous Services with Mixed Numerology in 5G Wireless Networks"](https://drive.google.com/file/d/1neVGyQIXD86idhJmJnkCRvfZvYqqS6bs/view?usp=sharing), submitted to IEEE Wireless Communications Letters.
 
 3. T. M. Ho, T. D. Tran, **Ti Ti Nguyen**, SM Kazmi, L. B. Le, C. S. Hong, L. Hanzo, ["Next-generation Wireless Solutions for the Smart Factory, Smart Vehicles, the Smart Grid and Smart Cities"](https://arxiv.org/pdf/1907.10102.pdf), submitted to IEEE Communications Surveys & Tutorials.
 
-2. **Ti Ti Nguyen**, Vu N. Ha, L. B. Le, R. Schober, ["Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems"](https://arxiv.org/pdf/1903.08566.pdf), IEEE Transactions on Wireless Communications, 2019, Early Access.
+2. **Ti Ti Nguyen**, Vu N. Ha, L. B. Le, R. Schober, ["Joint Data compression and Computation offloading in Hierarchical Fog-Cloud Systems"](https://ieeexplore.ieee.org/document/8859632), IEEE Transactions on Wireless Communications, 2019, Early Access.
 
 1. **Ti Ti Nguyen**, L. B. Le, Q Le-Trung, ["Computation offloading in MIMO based mobile edge computing systems under perfect and imperfect CSI estimation"](https://ieeexplore.ieee.org/abstract/document/8611210), IEEE Transaction on Services Computing, 2019, Early Access.
 
