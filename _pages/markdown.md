@@ -1,10 +1,12 @@
 ---
+layout: archive
 permalink: /markdown/
 title: 
 author_profile: true
-redirect_from: 
+redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 
 Programming skills
