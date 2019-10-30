@@ -26,16 +26,13 @@ Journals
 
 Conferences
 ---
-6. **Ti Ti Nguyen**, L. B. Le, ["Computation offloading in MIMO based mobile edge computing systems under perfect and imperfect CSI estimation"](https://ieeexplore.ieee.org/document/8422274), IEEE International Conference on Communications, 2018.
+7. **Ti Ti Nguyen**, L. B. Le, ["Computation offloading in MIMO based mobile edge computing systems under perfect and imperfect CSI estimation"](https://ieeexplore.ieee.org/document/8422274), IEEE International Conference on Communications, 2018.
 
-5. **Ti Ti Nguyen**, L. B. Le, ["Joint Computation Offloading and Resource Allocation in Cloud Based Wireless HetNets"](https://ieeexplore.ieee.org/abstract/document/8254705), IEEE Global Communications Conference, 2018.
+6. **Ti Ti Nguyen**, L. B. Le, ["Joint Computation Offloading and Resource Allocation in Cloud Based Wireless HetNets"](https://ieeexplore.ieee.org/abstract/document/8254705), IEEE Global Communications Conference, 2018.
 
-4. **Ti Ti Nguyen**, L. B. Le, ["Computation offloading leveraging computing resources from edge cloud and mobile peers"](https://ieeexplore.ieee.org/abstract/document/7997138), IEEE International Conference on Communications, 2017.
+5. **Ti Ti Nguyen**, L. B. Le, ["Computation offloading leveraging computing resources from edge cloud and mobile peers"](https://ieeexplore.ieee.org/abstract/document/7997138), IEEE International Conference on Communications, 2017.
 
 4. **Ti Ti Nguyen**, L. B. Le, ["Joint Resource Allocation, Computation Offloading, and Path Planning for UAV Based Hierarchical Fog-Cloud Mobile Systems"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8465572), IEEE International Conference on Communications and Electronics (ICCE), 2017 (Best student paper award).
-
-
-
 
 3. **Ti Ti Nguyen**, M. Gautier, P. Scalart, O. Berder, T-H. Nguyen, F. A. Aoudia, ["Blind I/Q Imbalance Compensation for M-QAM Optical Coherent Systems based on Pseudo-rotation"](https://ieeexplore.ieee.org/abstract/document/7841633), IEEE Global Communications Conference, 2016.
 
